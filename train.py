@@ -107,11 +107,11 @@ def main(learning_rate, gamma, dropout, n_dim, seed=1):
             logger.info(f"Solved! Running reward is now {running_reward}"
                     f" and the {episode} episode runs to {step} steps!")
             torch.save(policy.state_dict(), os.path.join("save1", fn + ".pt"))
-            data = {
-                "steps_per_episode": data_step,
-                "rewards_per_episode": data_reward,
-            }
-            save_experiment_result(fn + ".pkl", data, "data1")
+            # data = {
+            #     "steps_per_episode": data_step,
+            #     "rewards_per_episode": data_reward,
+            # }
+            # save_experiment_result(fn + ".pkl", data, "data1")
         episode += 1
     data = {
         "steps_per_episode": data_step,

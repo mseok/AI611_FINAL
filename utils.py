@@ -66,3 +66,9 @@ def initialize_logger(log_file=None, log_file_level=logging.NOTSET, rotate=False
         logger.addHandler(file_handler)
 
     return logger
+
+
+def read_data(fn):
+    with open(fn, "rb") as f:
+        data = pickle.load(f)
+    return data

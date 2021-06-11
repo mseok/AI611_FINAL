@@ -1,0 +1,6 @@
+Learning rate	        Gamma	      Dropout	   Hidden dim	First episode	   N episodes
+         0.01	         0.99	          0.0	           64	          167	           11
+         0.01	         0.99	          0.5	          128	          291	           45
+         0.01	          0.9	          0.0	          256	          291	          384
+         0.01	          0.9	          0.5	          128	          252	          187
+        0.005	          0.9	          0.5	          256	          270	           48
