@@ -1,0 +1,73 @@
+Episode 0	done at step:    12	withAverage reward: 10.15
+Episode 100	done at step:   499	withAverage reward: 289.35
+Episode 200	done at step:   199	withAverage reward: 278.68
+Episode 300	done at step:   172	withAverage reward: 245.83
+Episode 400	done at step:   238	withAverage reward: 157.20
+Episode 500	done at step:   499	withAverage reward: 319.34
+Episode 600	done at step:   147	withAverage reward: 243.82
+Episode 700	done at step:   166	withAverage reward: 276.96
+Solved! Running reward is now 475.47940760036244 and the 753 episode runs to 499 steps!
+Solved! Running reward is now 476.70543722034427 and the 754 episode runs to 499 steps!
+Solved! Running reward is now 477.870165359327 and the 755 episode runs to 499 steps!
+Solved! Running reward is now 478.97665709136066 and the 756 episode runs to 499 steps!
+Solved! Running reward is now 480.0278242367926 and the 757 episode runs to 499 steps!
+Solved! Running reward is now 481.02643302495295 and the 758 episode runs to 499 steps!
+Solved! Running reward is now 481.97511137370526 and the 759 episode runs to 499 steps!
+Solved! Running reward is now 482.87635580501995 and the 760 episode runs to 499 steps!
+Solved! Running reward is now 483.7325380147689 and the 761 episode runs to 499 steps!
+Solved! Running reward is now 484.54591111403045 and the 762 episode runs to 499 steps!
+Solved! Running reward is now 485.31861555832893 and the 763 episode runs to 499 steps!
+Solved! Running reward is now 486.05268478041245 and the 764 episode runs to 499 steps!
+Solved! Running reward is now 486.75005054139183 and the 765 episode runs to 499 steps!
+Solved! Running reward is now 487.4125480143222 and the 766 episode runs to 499 steps!
+Solved! Running reward is now 488.04192061360607 and the 767 episode runs to 499 steps!
+Solved! Running reward is now 488.63982458292577 and the 768 episode runs to 499 steps!
+Solved! Running reward is now 489.20783335377945 and the 769 episode runs to 499 steps!
+Solved! Running reward is now 489.74744168609044 and the 770 episode runs to 499 steps!
+Solved! Running reward is now 490.2600696017859 and the 771 episode runs to 499 steps!
+Solved! Running reward is now 490.7470661216966 and the 772 episode runs to 499 steps!
+Solved! Running reward is now 491.20971281561174 and the 773 episode runs to 499 steps!
+Solved! Running reward is now 491.64922717483114 and the 774 episode runs to 499 steps!
+Solved! Running reward is now 492.06676581608957 and the 775 episode runs to 499 steps!
+Solved! Running reward is now 492.46342752528506 and the 776 episode runs to 499 steps!
+Solved! Running reward is now 492.8402561490208 and the 777 episode runs to 499 steps!
+Solved! Running reward is now 493.1982433415697 and the 778 episode runs to 499 steps!
+Solved! Running reward is now 493.5383311744912 and the 779 episode runs to 499 steps!
+Solved! Running reward is now 493.8614146157666 and the 780 episode runs to 499 steps!
+Solved! Running reward is now 494.16834388497824 and the 781 episode runs to 499 steps!
+Solved! Running reward is now 494.45992669072933 and the 782 episode runs to 499 steps!
+Solved! Running reward is now 494.73693035619283 and the 783 episode runs to 499 steps!
+Solved! Running reward is now 495.00008383838315 and the 784 episode runs to 499 steps!
+Solved! Running reward is now 495.250079646464 and the 785 episode runs to 499 steps!
+Solved! Running reward is now 495.48757566414076 and the 786 episode runs to 499 steps!
+Solved! Running reward is now 495.7131968809337 and the 787 episode runs to 499 steps!
+Solved! Running reward is now 495.927537036887 and the 788 episode runs to 499 steps!
+Solved! Running reward is now 496.13116018504263 and the 789 episode runs to 499 steps!
+Solved! Running reward is now 496.32460217579046 and the 790 episode runs to 499 steps!
+Solved! Running reward is now 496.5083720670009 and the 791 episode runs to 499 steps!
+Solved! Running reward is now 496.68295346365085 and the 792 episode runs to 499 steps!
+Solved! Running reward is now 496.8488057904683 and the 793 episode runs to 499 steps!
+Solved! Running reward is now 497.00636550094487 and the 794 episode runs to 499 steps!
+Solved! Running reward is now 497.1560472258976 and the 795 episode runs to 499 steps!
+Solved! Running reward is now 497.29824486460274 and the 796 episode runs to 499 steps!
+Solved! Running reward is now 497.4333326213726 and the 797 episode runs to 499 steps!
+Solved! Running reward is now 497.56166599030394 and the 798 episode runs to 499 steps!
+Solved! Running reward is now 497.68358269078874 and the 799 episode runs to 499 steps!
+Episode 800	done at step:   499	withAverage reward: 497.80
+Solved! Running reward is now 497.7994035562493 and the 800 episode runs to 499 steps!
+Solved! Running reward is now 497.9094333784368 and the 801 episode runs to 499 steps!
+Solved! Running reward is now 498.01396170951494 and the 802 episode runs to 499 steps!
+Solved! Running reward is now 498.1132636240392 and the 803 episode runs to 499 steps!
+Solved! Running reward is now 498.2076004428372 and the 804 episode runs to 499 steps!
+Solved! Running reward is now 498.2972204206953 and the 805 episode runs to 499 steps!
+Solved! Running reward is now 498.3823593996605 and the 806 episode runs to 499 steps!
+Solved! Running reward is now 498.46324142967745 and the 807 episode runs to 499 steps!
+Solved! Running reward is now 498.54007935819357 and the 808 episode runs to 499 steps!
+Solved! Running reward is now 498.6130753902839 and the 809 episode runs to 499 steps!
+Solved! Running reward is now 498.6824216207697 and the 810 episode runs to 499 steps!
+Solved! Running reward is now 498.7483005397312 and the 811 episode runs to 499 steps!
+Solved! Running reward is now 498.8108855127446 and the 812 episode runs to 499 steps!
+Solved! Running reward is now 498.87034123710737 and the 813 episode runs to 499 steps!
+Solved! Running reward is now 498.92682417525197 and the 814 episode runs to 499 steps!
+Solved! Running reward is now 477.58048296648934 and the 815 episode runs to 71 steps!
+Episode 900	done at step:    15	withAverage reward: 18.51

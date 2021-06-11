@@ -1,0 +1,25 @@
+Episode 0	done at step:    32	withAverage reward: 11.15
+Episode 100	done at step:   100	withAverage reward: 106.59
+Episode 200	done at step:   499	withAverage reward: 433.61
+Solved! Running reward is now 476.2018086170284 and the 220 episode runs to 499 steps!
+Solved! Running reward is now 477.39171818617694 and the 221 episode runs to 499 steps!
+Solved! Running reward is now 478.5221322768681 and the 222 episode runs to 499 steps!
+Solved! Running reward is now 476.20443625283565 and the 226 episode runs to 499 steps!
+Solved! Running reward is now 477.3942144401938 and the 227 episode runs to 499 steps!
+Solved! Running reward is now 478.5245037181841 and the 228 episode runs to 499 steps!
+Solved! Running reward is now 479.5982785322749 and the 229 episode runs to 499 steps!
+Solved! Running reward is now 480.6183646056611 and the 230 episode runs to 499 steps!
+Solved! Running reward is now 481.587446375378 and the 231 episode runs to 499 steps!
+Solved! Running reward is now 482.5080740566091 and the 232 episode runs to 499 steps!
+Solved! Running reward is now 483.3826703537786 and the 233 episode runs to 499 steps!
+Solved! Running reward is now 484.21353683608965 and the 234 episode runs to 499 steps!
+Solved! Running reward is now 485.00285999428513 and the 235 episode runs to 499 steps!
+Solved! Running reward is now 475.30271699457086 and the 236 episode runs to 290 steps!
+Solved! Running reward is now 476.5375811448423 and the 237 episode runs to 499 steps!
+Episode 300	done at step:     8	withAverage reward: 54.59
+Episode 400	done at step:     8	withAverage reward: 9.75
+Episode 500	done at step:     9	withAverage reward: 9.72
+Episode 600	done at step:     8	withAverage reward: 9.37
+Episode 700	done at step:    10	withAverage reward: 9.40
+Episode 800	done at step:     8	withAverage reward: 9.21
+Episode 900	done at step:     9	withAverage reward: 9.53

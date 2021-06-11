@@ -1,0 +1,64 @@
+Episode 0	done at step:    10	withAverage reward: 10.05
+Episode 100	done at step:   102	withAverage reward: 58.63
+Episode 200	done at step:   246	withAverage reward: 255.64
+Episode 300	done at step:   169	withAverage reward: 261.87
+Episode 400	done at step:   333	withAverage reward: 354.28
+Episode 500	done at step:   204	withAverage reward: 283.09
+Solved! Running reward is now 476.007318010014 and the 587 episode runs to 499 steps!
+Solved! Running reward is now 477.2069521095133 and the 588 episode runs to 499 steps!
+Solved! Running reward is now 478.3466045040376 and the 589 episode runs to 499 steps!
+Solved! Running reward is now 477.3792742788357 and the 590 episode runs to 458 steps!
+Solved! Running reward is now 478.51031056489387 and the 591 episode runs to 499 steps!
+Solved! Running reward is now 479.58479503664915 and the 592 episode runs to 499 steps!
+Solved! Running reward is now 480.60555528481666 and the 593 episode runs to 499 steps!
+Solved! Running reward is now 481.5752775205758 and the 594 episode runs to 499 steps!
+Solved! Running reward is now 482.496513644547 and the 595 episode runs to 499 steps!
+Solved! Running reward is now 478.47168796231966 and the 596 episode runs to 401 steps!
+Solved! Running reward is now 479.54810356420364 and the 597 episode runs to 499 steps!
+Solved! Running reward is now 480.57069838599347 and the 598 episode runs to 499 steps!
+Episode 600	done at step:   453	withAverage reward: 472.95
+Solved! Running reward is now 475.58291240225645 and the 602 episode runs to 499 steps!
+Solved! Running reward is now 476.8037667821436 and the 603 episode runs to 499 steps!
+Solved! Running reward is now 475.33366378921835 and the 608 episode runs to 499 steps!
+Solved! Running reward is now 476.5669805997574 and the 609 episode runs to 499 steps!
+Solved! Running reward is now 477.7386315697695 and the 610 episode runs to 499 steps!
+Episode 700	done at step:   235	withAverage reward: 352.65
+Episode 800	done at step:   251	withAverage reward: 315.23
+Episode 900	done at step:   282	withAverage reward: 353.72
+Solved! Running reward is now 475.2844410656126 and the 963 episode runs to 499 steps!
+Solved! Running reward is now 476.52021901233195 and the 964 episode runs to 499 steps!
+Solved! Running reward is now 477.69420806171536 and the 965 episode runs to 499 steps!
+Solved! Running reward is now 478.0094976586296 and the 966 episode runs to 483 steps!
+Solved! Running reward is now 479.10902277569807 and the 967 episode runs to 499 steps!
+Solved! Running reward is now 480.1535716369131 and the 968 episode runs to 499 steps!
+Solved! Running reward is now 481.14589305506746 and the 969 episode runs to 499 steps!
+Solved! Running reward is now 482.08859840231406 and the 970 episode runs to 499 steps!
+Solved! Running reward is now 482.63416848219833 and the 971 episode runs to 492 steps!
+Solved! Running reward is now 483.5024600580884 and the 972 episode runs to 499 steps!
+Solved! Running reward is now 484.32733705518393 and the 973 episode runs to 499 steps!
+Solved! Running reward is now 485.1109702024247 and the 974 episode runs to 499 steps!
+Solved! Running reward is now 484.8554216923035 and the 975 episode runs to 479 steps!
+Solved! Running reward is now 485.6126506076883 and the 976 episode runs to 499 steps!
+Solved! Running reward is now 486.33201807730387 and the 977 episode runs to 499 steps!
+Solved! Running reward is now 487.01541717343866 and the 978 episode runs to 499 steps!
+Solved! Running reward is now 487.6646463147667 and the 979 episode runs to 499 steps!
+Solved! Running reward is now 484.9314139990283 and the 980 episode runs to 432 steps!
+Solved! Running reward is now 485.6848432990768 and the 981 episode runs to 499 steps!
+Solved! Running reward is now 484.8006011341229 and the 982 episode runs to 467 steps!
+Solved! Running reward is now 485.56057107741674 and the 983 episode runs to 499 steps!
+Solved! Running reward is now 486.2825425235459 and the 984 episode runs to 499 steps!
+Solved! Running reward is now 486.9684153973686 and the 985 episode runs to 499 steps!
+Solved! Running reward is now 487.61999462750015 and the 986 episode runs to 499 steps!
+Solved! Running reward is now 488.2389948961251 and the 987 episode runs to 499 steps!
+Solved! Running reward is now 488.8270451513188 and the 988 episode runs to 499 steps!
+Solved! Running reward is now 489.3856928937529 and the 989 episode runs to 499 steps!
+Solved! Running reward is now 489.9164082490652 and the 990 episode runs to 499 steps!
+Solved! Running reward is now 490.42058783661196 and the 991 episode runs to 499 steps!
+Solved! Running reward is now 490.89955844478135 and the 992 episode runs to 499 steps!
+Solved! Running reward is now 491.3545805225423 and the 993 episode runs to 499 steps!
+Solved! Running reward is now 491.7868514964151 and the 994 episode runs to 499 steps!
+Solved! Running reward is now 492.19750892159436 and the 995 episode runs to 499 steps!
+Solved! Running reward is now 492.5876334755146 and the 996 episode runs to 499 steps!
+Solved! Running reward is now 492.95825180173887 and the 997 episode runs to 499 steps!
+Solved! Running reward is now 493.3103392116519 and the 998 episode runs to 499 steps!
+Solved! Running reward is now 493.6448222510693 and the 999 episode runs to 499 steps!

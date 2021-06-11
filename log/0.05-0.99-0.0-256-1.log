@@ -1,0 +1,65 @@
+Episode 0	done at step:    16	withAverage reward: 10.35
+Episode 100	done at step:     8	withAverage reward: 39.72
+Episode 200	done at step:     8	withAverage reward: 10.57
+Episode 300	done at step:     8	withAverage reward: 11.11
+Episode 400	done at step:     8	withAverage reward: 14.94
+Episode 500	done at step:     9	withAverage reward: 17.12
+Episode 600	done at step:   102	withAverage reward: 273.46
+Solved! Running reward is now 476.00274742998266 and the 661 episode runs to 499 steps!
+Solved! Running reward is now 477.2026100584835 and the 662 episode runs to 499 steps!
+Solved! Running reward is now 478.3424795555593 and the 663 episode runs to 499 steps!
+Solved! Running reward is now 479.4253555777813 and the 664 episode runs to 499 steps!
+Solved! Running reward is now 480.4540877988922 and the 665 episode runs to 499 steps!
+Solved! Running reward is now 481.43138340894757 and the 666 episode runs to 499 steps!
+Solved! Running reward is now 482.3598142385002 and the 667 episode runs to 499 steps!
+Solved! Running reward is now 483.24182352657516 and the 668 episode runs to 499 steps!
+Solved! Running reward is now 484.0797323502464 and the 669 episode runs to 499 steps!
+Solved! Running reward is now 484.87574573273406 and the 670 episode runs to 499 steps!
+Solved! Running reward is now 485.6319584460973 and the 671 episode runs to 499 steps!
+Solved! Running reward is now 486.3503605237924 and the 672 episode runs to 499 steps!
+Solved! Running reward is now 487.03284249760276 and the 673 episode runs to 499 steps!
+Solved! Running reward is now 487.68120037272257 and the 674 episode runs to 499 steps!
+Solved! Running reward is now 488.2971403540864 and the 675 episode runs to 499 steps!
+Solved! Running reward is now 488.8822833363821 and the 676 episode runs to 499 steps!
+Solved! Running reward is now 489.43816916956297 and the 677 episode runs to 499 steps!
+Solved! Running reward is now 489.9662607110848 and the 678 episode runs to 499 steps!
+Solved! Running reward is now 490.4679476755305 and the 679 episode runs to 499 steps!
+Solved! Running reward is now 490.94455029175396 and the 680 episode runs to 499 steps!
+Solved! Running reward is now 491.3973227771662 and the 681 episode runs to 499 steps!
+Solved! Running reward is now 491.82745663830786 and the 682 episode runs to 499 steps!
+Solved! Running reward is now 492.23608380639246 and the 683 episode runs to 499 steps!
+Solved! Running reward is now 492.62427961607284 and the 684 episode runs to 499 steps!
+Solved! Running reward is now 492.9930656352692 and the 685 episode runs to 499 steps!
+Solved! Running reward is now 493.3434123535057 and the 686 episode runs to 499 steps!
+Solved! Running reward is now 493.6762417358304 and the 687 episode runs to 499 steps!
+Solved! Running reward is now 493.99242964903885 and the 688 episode runs to 499 steps!
+Solved! Running reward is now 494.2928081665869 and the 689 episode runs to 499 steps!
+Solved! Running reward is now 494.5781677582575 and the 690 episode runs to 499 steps!
+Solved! Running reward is now 494.8492593703446 and the 691 episode runs to 499 steps!
+Solved! Running reward is now 495.10679640182735 and the 692 episode runs to 499 steps!
+Solved! Running reward is now 495.351456581736 and the 693 episode runs to 499 steps!
+Solved! Running reward is now 495.5838837526492 and the 694 episode runs to 499 steps!
+Solved! Running reward is now 495.8046895650167 and the 695 episode runs to 499 steps!
+Solved! Running reward is now 496.01445508676585 and the 696 episode runs to 499 steps!
+Solved! Running reward is now 496.2137323324275 and the 697 episode runs to 499 steps!
+Solved! Running reward is now 496.4030457158061 and the 698 episode runs to 499 steps!
+Solved! Running reward is now 496.5828934300158 and the 699 episode runs to 499 steps!
+Episode 700	done at step:   499	withAverage reward: 496.75
+Solved! Running reward is now 496.75374875851503 and the 700 episode runs to 499 steps!
+Solved! Running reward is now 496.9160613205893 and the 701 episode runs to 499 steps!
+Solved! Running reward is now 497.0702582545598 and the 702 episode runs to 499 steps!
+Solved! Running reward is now 497.21674534183177 and the 703 episode runs to 499 steps!
+Solved! Running reward is now 497.35590807474017 and the 704 episode runs to 499 steps!
+Solved! Running reward is now 497.48811267100314 and the 705 episode runs to 499 steps!
+Solved! Running reward is now 497.61370703745297 and the 706 episode runs to 499 steps!
+Solved! Running reward is now 494.5330216855803 and the 707 episode runs to 435 steps!
+Solved! Running reward is now 494.8063706013013 and the 708 episode runs to 499 steps!
+Solved! Running reward is now 495.0660520712362 and the 709 episode runs to 499 steps!
+Solved! Running reward is now 495.31274946767434 and the 710 episode runs to 499 steps!
+Solved! Running reward is now 492.6971119942906 and the 711 episode runs to 442 steps!
+Solved! Running reward is now 484.512256394576 and the 712 episode runs to 328 steps!
+Solved! Running reward is now 475.43664357484715 and the 713 episode runs to 302 steps!
+Solved! Running reward is now 476.66481139610477 and the 714 episode runs to 499 steps!
+Solved! Running reward is now 477.8315708262995 and the 715 episode runs to 499 steps!
+Episode 800	done at step:    26	withAverage reward: 39.82
+Episode 900	done at step:    31	withAverage reward: 18.68

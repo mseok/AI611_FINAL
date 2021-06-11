@@ -1,0 +1,36 @@
+Episode 0	done at step:    17	withAverage reward: 10.40
+Episode 100	done at step:   123	withAverage reward: 121.83
+Episode 200	done at step:   276	withAverage reward: 416.56
+Episode 300	done at step:   309	withAverage reward: 293.06
+Episode 400	done at step:   207	withAverage reward: 266.49
+Episode 500	done at step:   326	withAverage reward: 305.35
+Episode 600	done at step:   426	withAverage reward: 347.17
+Episode 700	done at step:   499	withAverage reward: 470.36
+Solved! Running reward is now 475.5255572472927 and the 704 episode runs to 499 steps!
+Solved! Running reward is now 476.749279384928 and the 705 episode runs to 499 steps!
+Solved! Running reward is now 475.6118154156816 and the 706 episode runs to 453 steps!
+Solved! Running reward is now 475.0064026884317 and the 724 episode runs to 499 steps!
+Solved! Running reward is now 476.2560825540101 and the 725 episode runs to 499 steps!
+Solved! Running reward is now 477.4432784263096 and the 726 episode runs to 499 steps!
+Solved! Running reward is now 478.57111450499406 and the 727 episode runs to 499 steps!
+Solved! Running reward is now 479.6425587797443 and the 728 episode runs to 499 steps!
+Solved! Running reward is now 480.6604308407571 and the 729 episode runs to 499 steps!
+Solved! Running reward is now 476.22740929871924 and the 730 episode runs to 391 steps!
+Solved! Running reward is now 477.41603883378326 and the 731 episode runs to 499 steps!
+Solved! Running reward is now 478.54523689209407 and the 732 episode runs to 499 steps!
+Solved! Running reward is now 476.8179750474893 and the 733 episode runs to 443 steps!
+Solved! Running reward is now 477.97707629511484 and the 734 episode runs to 499 steps!
+Solved! Running reward is now 479.0782224803591 and the 735 episode runs to 499 steps!
+Solved! Running reward is now 480.12431135634114 and the 736 episode runs to 499 steps!
+Solved! Running reward is now 481.11809578852404 and the 737 episode runs to 499 steps!
+Solved! Running reward is now 482.0621909990978 and the 738 episode runs to 499 steps!
+Solved! Running reward is now 482.9590814491429 and the 739 episode runs to 499 steps!
+Solved! Running reward is now 483.81112737668576 and the 740 episode runs to 499 steps!
+Solved! Running reward is now 484.6205710078514 and the 741 episode runs to 499 steps!
+Solved! Running reward is now 484.18954245745886 and the 742 episode runs to 475 steps!
+Solved! Running reward is now 484.9800653345859 and the 743 episode runs to 499 steps!
+Solved! Running reward is now 479.3810620678566 and the 744 episode runs to 372 steps!
+Solved! Running reward is now 476.2139085162405 and the 746 episode runs to 499 steps!
+Solved! Running reward is now 477.40321309042844 and the 747 episode runs to 499 steps!
+Episode 800	done at step:   248	withAverage reward: 298.92
+Episode 900	done at step:   383	withAverage reward: 364.87

@@ -1,0 +1,11 @@
+Episode 0	done at step:    21	withAverage reward: 10.60
+Episode 100	done at step:   197	withAverage reward: 66.08
+Episode 200	done at step:   274	withAverage reward: 154.58
+Episode 300	done at step:    88	withAverage reward: 61.84
+Episode 400	done at step:    56	withAverage reward: 76.84
+Episode 500	done at step:   499	withAverage reward: 319.62
+Solved! Running reward is now 475.776090723467 and the 541 episode runs to 499 steps!
+Episode 600	done at step:     8	withAverage reward: 32.96
+Episode 700	done at step:     9	withAverage reward: 9.65
+Episode 800	done at step:     9	withAverage reward: 9.55
+Episode 900	done at step:    10	withAverage reward: 9.76

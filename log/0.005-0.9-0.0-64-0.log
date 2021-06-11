@@ -1,0 +1,44 @@
+Episode 0	done at step:    20	withAverage reward: 10.55
+Episode 100	done at step:   146	withAverage reward: 88.50
+Episode 200	done at step:   175	withAverage reward: 299.54
+Episode 300	done at step:   499	withAverage reward: 450.60
+Solved! Running reward is now 475.9091539897239 and the 314 episode runs to 499 steps!
+Solved! Running reward is now 477.11369629023767 and the 315 episode runs to 499 steps!
+Solved! Running reward is now 478.25801147572577 and the 316 episode runs to 499 steps!
+Solved! Running reward is now 479.34511090193945 and the 317 episode runs to 499 steps!
+Solved! Running reward is now 480.3778553568425 and the 318 episode runs to 499 steps!
+Solved! Running reward is now 481.3589625890003 and the 319 episode runs to 499 steps!
+Solved! Running reward is now 482.2910144595503 and the 320 episode runs to 499 steps!
+Solved! Running reward is now 483.17646373657277 and the 321 episode runs to 499 steps!
+Solved! Running reward is now 484.0176405497441 and the 322 episode runs to 499 steps!
+Solved! Running reward is now 484.81675852225686 and the 323 episode runs to 499 steps!
+Solved! Running reward is now 485.575920596144 and the 324 episode runs to 499 steps!
+Solved! Running reward is now 486.2971245663368 and the 325 episode runs to 499 steps!
+Solved! Running reward is now 486.98226833801994 and the 326 episode runs to 499 steps!
+Solved! Running reward is now 487.63315492111894 and the 327 episode runs to 499 steps!
+Solved! Running reward is now 475.25961856331173 and the 345 episode runs to 499 steps!
+Solved! Running reward is now 476.4966376351461 and the 346 episode runs to 499 steps!
+Solved! Running reward is now 477.67180575338875 and the 347 episode runs to 499 steps!
+Solved! Running reward is now 478.7882154657193 and the 348 episode runs to 499 steps!
+Solved! Running reward is now 479.8488046924333 and the 349 episode runs to 499 steps!
+Solved! Running reward is now 480.8563644578116 and the 350 episode runs to 499 steps!
+Solved! Running reward is now 481.813546234921 and the 351 episode runs to 499 steps!
+Solved! Running reward is now 482.72286892317493 and the 352 episode runs to 499 steps!
+Solved! Running reward is now 483.58672547701616 and the 353 episode runs to 499 steps!
+Solved! Running reward is now 484.40738920316534 and the 354 episode runs to 499 steps!
+Solved! Running reward is now 485.18701974300706 and the 355 episode runs to 499 steps!
+Solved! Running reward is now 485.9276687558567 and the 356 episode runs to 499 steps!
+Solved! Running reward is now 486.6312853180638 and the 357 episode runs to 499 steps!
+Solved! Running reward is now 487.2997210521606 and the 358 episode runs to 499 steps!
+Solved! Running reward is now 487.9347349995525 and the 359 episode runs to 499 steps!
+Solved! Running reward is now 488.53799824957485 and the 360 episode runs to 499 steps!
+Solved! Running reward is now 485.5110983370961 and the 361 episode runs to 427 steps!
+Solved! Running reward is now 478.18554342024123 and the 362 episode runs to 338 steps!
+Solved! Running reward is now 475.6762662492291 and the 363 episode runs to 427 steps!
+Solved! Running reward is now 475.94156377543277 and the 366 episode runs to 499 steps!
+Episode 400	done at step:   155	withAverage reward: 298.04
+Episode 500	done at step:   276	withAverage reward: 327.85
+Episode 600	done at step:   423	withAverage reward: 311.90
+Episode 700	done at step:   242	withAverage reward: 288.52
+Episode 800	done at step:   248	withAverage reward: 290.93
+Episode 900	done at step:   271	withAverage reward: 209.75
