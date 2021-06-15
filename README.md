@@ -1,6 +1,9 @@
 # AI611_FINAL
 KAIST AI611 final project
 
+The video of the best performance model.
+![image](https://user-images.githubusercontent.com/45076203/122025051-faa0d480-ce03-11eb-87ef-96db2ff1a9ee.gif)
+
 - Train
 
 To train, use the command `python train.py NCPU`, where `NCPU` is the number
