@@ -1,6 +1,7 @@
 from itertools import product
 import os
 import random
+import sys
 
 import gym
 import numpy as np
@@ -135,7 +136,8 @@ if __name__ == "__main__":
     make_dir("data2")
     make_dir("log")
 
-    NCPU = 20
+    # NCPU = 20
+    NCPU = int(sys.argv[1])
     data = list(product(lrs, gms, dos, nds, seeds))
     random.shuffle(data)
     queue = initialize_queue(data, 60)

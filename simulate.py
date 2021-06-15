@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 from matplotlib import animation
 import os
+import sys
 
 import gym
 import numpy as np
@@ -50,7 +51,8 @@ def simulate(fn):
 
 
 if __name__ == "__main__":
-    BEST = "0.01-0.9-0.0-256"
+    # BEST = "0.01-0.9-0.0-256"
+    BEST = sys.argv[1]
     N_STEPS = 10000
     SEEDS = [0, 1, 2, 3, 4]
 

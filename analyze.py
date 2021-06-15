@@ -81,30 +81,6 @@ def plt_default_settings():
     mpl.rc('font', family='serif', serif='cmr10')
 
 
-# def get_average_steps():
-#     total = {}
-#     for args in product(lrs, gms, dos, nds):
-#         args_steps = []
-#         args_succeeded_steps = []
-#         for seed in SEEDS:
-#             seed_args = args + (seed, )
-#             seed_args = list(map(str, seed_args))
-#             fn = "-".join(seed_args) + ".pkl"
-#             fn = os.path.join("./data1", fn)
-#             if os.path.exists(fn):
-#                 data = read_data(fn)
-#                 seed_steps = len(data["steps_per_episode"])
-#                 args_steps.append(seed_steps)
-#                 # fn = os.path.join("./data2", fn.split("/")[-1])
-#                 # data = read_data(fn)
-#                 # seed_succeeded_steps = data["steps_per_episode"]
-#         if len(args_steps) == len(SEEDS):
-#             total[args] = sum(args_steps) / len(args_steps)
-#         # else:
-#         #     print(args, "failed!")
-#     return total
-
-
 def get_average_rewards():
     avg = {}
     std = {}
